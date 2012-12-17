@@ -1,5 +1,5 @@
 === Last Login ===
-Contributors: jboydston, dkukral
+Contributors: jboydston, dkukral, Droyal
 Donate link: 
 Tags: login
 Requires at least: 3.0

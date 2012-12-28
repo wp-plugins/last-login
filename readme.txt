@@ -40,7 +40,7 @@ None.
 
 == Screenshots ==
 
-None.
+1. Dislpay which of your authors are currently "online,"" or when they were last logged in.
 
 == Changelog ==
 

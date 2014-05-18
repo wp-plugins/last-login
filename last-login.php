@@ -3,7 +3,7 @@
 Plugin Name: Last Login
 Plugin URI: http://yourdomain.com/
 Description: Records logins and provides a shortcode to display the timestamp. 
-Version: 1.0
+Version: 1.1
 Author: Don Kukral
 Author URI: http://yourdomain.com
 License: GPL

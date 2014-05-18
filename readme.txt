@@ -3,8 +3,8 @@ Contributors: jboydston, dkukral
 Donate link: 
 Tags: login
 Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 1.0
+Tested up to: 3.9.1
+Stable tag: 1.1
 
 Plugin for WordPress that records the last time a user logged in and provides a function to display that date.
 
@@ -13,7 +13,7 @@ Plugin for WordPress that records the last time a user logged in and provides a 
 Records logins and provides a function to display the timestamp. 
 
 == License ==
-Copyright 2010 - 2012 Joe Boydston, Don Kukral
+Copyright 2010 - 2014 Joe Boydston, Don Kukral
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -43,8 +43,10 @@ None.
 None.
 
 == Changelog ==
+= 1.1 =
+Verified compatibility with WP 3.9.1
 
-= 0.0 = 
+= 1.0 = 
 Initial Version
 
 

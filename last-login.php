@@ -3,7 +3,7 @@
 Plugin Name: Last Login
 Plugin URI: http://yourdomain.com/
 Description: Records logins and provides a shortcode to display the timestamp. 
-Version: 1.1
+Version: 1.2
 Author: Don Kukral
 Author URI: http://yourdomain.com
 License: GPL
@@ -97,7 +97,7 @@ function get_last_login($user_id, $format='%c') {
 
 function get_last_login_current_user($format='%c') {
     $current_user = wp_get_current_user();
-    return last_login_time($current_user->ID, $format);    
+    return get_last_login($current_user->ID, $format);    
 }
 
 function check_last_login($user_id) {

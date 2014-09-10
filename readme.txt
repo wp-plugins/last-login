@@ -3,8 +3,8 @@ Contributors: jboydston, dkukral
 Donate link: 
 Tags: login
 Requires at least: 3.0
-Tested up to: 3.9.1
-Stable tag: 1.1
+Tested up to: 4.0
+Stable tag: 1.2
 
 Plugin for WordPress that records the last time a user logged in and provides a function to display that date.
 
@@ -43,6 +43,9 @@ None.
 None.
 
 == Changelog ==
+= 1.2 =
+Verified compatibility with WP 4.0 - fixed call to get_last_login()
+
 = 1.1 =
 Verified compatibility with WP 3.9.1
 
